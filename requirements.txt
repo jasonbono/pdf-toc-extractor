@@ -1,0 +1,4 @@
+# Core dependencies for PDF TOC Extractor
+PyMuPDF>=1.23.0
+rapidfuzz>=3.0.0
+python-slugify>=8.0.0 
